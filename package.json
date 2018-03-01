@@ -1,0 +1,22 @@
+{
+    "name": "Chat",
+    "description": "Web-based SMS chat app",
+    "version": "0.0.1",
+    "author": "Andy Jiang",
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lambtron/chat.git"
+    },
+    "dependencies": {
+        "bower": "latest",
+        "express": "3.x",
+        "jade": "latest",
+        "moment": "latest",
+        "mongodb": "^3.0.3",
+        "mongoose": "2.x",
+        "socket.io": "latest",
+        "twilio": "latest",
+        "underscore": "latest"
+    }
+}
